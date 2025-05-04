@@ -1,6 +1,7 @@
 # Galaxy Generator
 
 A galaxy generator I wrote, which uses brownian motion.
+![cool galaxy](https://github.com/user-attachments/assets/b63f2d6b-c1b7-4d1c-bfee-5d6857a75c72)
 
 ## Running the program
 
